@@ -1,3 +1,34 @@
-🐍 Python Portfolio: [Tu Nombre/Alias]Bienvenido a mi repositorio de proyectos en Python. En lugar de carpetas, he organizado este portafolio utilizando Branches (Ramas). Cada rama contiene un proyecto independiente con su propio entorno y documentación específica.🚀 Índice de ProyectosAquí puedes ver los proyectos disponibles. Haz clic en el enlace para ir directamente a la rama correspondiente:ProyectoDescripciónRama (Branch)Task Tracker CLIAplicación de consola para gestionar tareas con persistencia en JSON.task-trackerPróximo ProyectoEn desarrollo...feature/proximo🛠️ Cómo navegar este repositorioPara ver el código de un proyecto específico, tienes dos opciones:1. Desde la web (GitHub)En la parte superior izquierda de la lista de archivos, haz clic en el botón que dice main y selecciona la rama del proyecto que deseas explorar.2. Desde la terminal (Local)Si deseas clonar un proyecto específico en tu computadora, usa el siguiente comando:Bash# Clonar solo una rama específica
-git clone -b nombre-de-la-rama --single-branch https://github.com/tu-usuario/tu-repositorio.git
-🧰 Tecnologías GlobalesAunque cada proyecto tiene sus dependencias, mi stack principal de Python incluye:Core: Python 3.xData: JSON / CSV (Manejo de archivos nativo)Tools: Git, CLI interfaces, [Agrega otras aquí]📬 Contacto¿Tienes alguna duda o quieres colaborar?LinkedIn: [Tu Perfil]Email: [Tu Correo]Twitter/X: @[TuUsuario]
+#🐍 Python Portfolio:
+
+Bienvenido a mi repositorio de proyectos en Python. En lugar de carpetas, he organizado este portafolio utilizando Branches (Ramas). Cada rama contiene un proyecto independiente con su propio entorno y documentación específica.
+
+🚀 Índice de Proyectos
+Aquí puedes ver los proyectos disponibles. 
+  1.Task Tracker CLI
+  2.
+  
+🛠️ Cómo navegar este repositorio
+Para ver el código de un proyecto específico, tienes dos opciones:
+
+1. Desde la web (GitHub)
+En la parte superior izquierda de la lista de archivos, haz clic en el botón que dice main y selecciona la rama del proyecto que deseas explorar.
+
+2. Desde la terminal (Local)
+Si deseas clonar un proyecto específico en tu computadora, usa el siguiente comando:
+   # # Clonar solo una rama específica  "git clone -b nombre-de-la-rama --single-branch https://github.com/tu-usuario/tu-repositorio.git"
+
+🧰 Tecnologías Globales
+Aunque cada proyecto tiene sus dependencias, mi stack principal de Python incluye:
+
+  Core: Python 3.x
+
+  Data: JSON / CSV (Manejo de archivos nativo), Power BI, Excel
+
+  Tools: Git, CLI interfaces
+
+ 📬 Contacto
+¿Tienes alguna duda o quieres colaborar?
+
+LinkedIn: https://www.linkedin.com/in/sergio-palominom/
+
+Email: sergiobox96@gmail.com
