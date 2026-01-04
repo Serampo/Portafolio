@@ -4,9 +4,9 @@ Bienvenido a mi repositorio de proyectos en Python. En lugar de carpetas, he org
 
 # 🚀 Índice de Proyectos
 Aquí puedes ver los proyectos disponibles. 
-  1.Task Tracker CLI
-  2.
-  
+  -Task Tracker CLI
+
+    
 # 🛠️ Cómo navegar este repositorio
 Para ver el código de un proyecto específico, tienes dos opciones:
 
