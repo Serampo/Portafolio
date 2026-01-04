@@ -3,7 +3,8 @@
 Bienvenido a mi repositorio de proyectos en Python. En lugar de carpetas, he organizado este portafolio utilizando Branches (Ramas). Cada rama contiene un proyecto independiente con su propio entorno y documentación específica.
 
 # 🚀 Índice de Proyectos
-Aquí puedes ver los proyectos disponibles. 
+Aquí puedes ver los proyectos disponibles.
+
   -Task Tracker CLI
 
     
