@@ -15,7 +15,7 @@ En la parte superior izquierda de la lista de archivos, haz clic en el botón qu
 
 2. Desde la terminal (Local)
 Si deseas clonar un proyecto específico en tu computadora, usa el siguiente comando:
-   # # Clonar solo una rama específica  "git clone -b nombre-de-la-rama --single-branch https://github.com/tu-usuario/tu-repositorio.git"
+   Clonar solo una rama específica  "git clone -b nombre-de-la-rama --single-branch https://github.com/tu-usuario/tu-repositorio.git"
 
 🧰 Tecnologías Globales
 Aunque cada proyecto tiene sus dependencias, mi stack principal de Python incluye:
