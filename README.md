@@ -1,4 +1,4 @@
-# 🐍 Python Portfolio:
+# 🐍 Portafolio de Python:
 
 Bienvenido a mi repositorio de proyectos en Python. En lugar de carpetas, he organizado este portafolio utilizando Branches (Ramas). Cada rama contiene un proyecto independiente con su propio entorno y documentación específica.
 
